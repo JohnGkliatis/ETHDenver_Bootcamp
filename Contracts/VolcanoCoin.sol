@@ -8,7 +8,6 @@
 //1. In Remix, create a new file called VolcanoCoin.sol .
 //2. Define the pragma compiler version to ^0.8.0 .
 //3. Before the pragma version, add a license identifer
-//// SPDX-License-Identifier: UNLICENSED .
 //4. Create a contract called VolcanoCoin.
 //5. Create a variable to hold the total supply of 10000.
 //6. Make a public function that returns the total supply.
